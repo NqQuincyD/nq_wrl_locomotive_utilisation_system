@@ -1,0 +1,16 @@
+streamlit
+pickle
+pathlib 
+streamlit_authenticator
+pandas 
+numpy
+pmatplotlib.pyplot 
+seaborn 
+sklearn.linear_model 
+sklearn.model_selection 
+datetime
+psqlite3
+random
+sklearn.multioutput 
+pbcrypt
+re
